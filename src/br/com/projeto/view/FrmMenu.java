@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package br.com.projeto.view;
+import br.com.projeto.view.FrmVendas;
 import java.awt.Graphics;
 import java.awt.Image;
 import javax.swing.ImageIcon;
